@@ -2,7 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.gitignore
 .Rproj
-.Rbuildignore
 rsconnect
