@@ -3,6 +3,6 @@
 .RData
 .Ruserdata
 .gitignore
-*.Rproj
-*.Rbuildignore
-*rsconnect
+.Rproj
+.Rbuildignore
+rsconnect
